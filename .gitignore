@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+*.log
+
+# Local reports and documentation
+/asset-manifest.json
+/audit-report.json
+/motion-restoration-report.json
+/motion-verification.json
+/smoke-report.json
+/VERIFICATION.md
+/README.md
+/اصلاحات.md

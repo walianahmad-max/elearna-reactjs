@@ -1,0 +1,227 @@
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+@theme {
+  --color-brand: #ffc400;
+  --color-ink: #102c30;
+  --font-sans: "Outfit", sans-serif;
+}
+/* The reference stylesheet is local in public/assets. Tailwind powers new UI. */
+button {
+  font: inherit;
+  cursor: pointer;
+}
+button.w-dropdown-toggle,
+button.w-tab-link,
+button.w-nav-button,
+button.w-slider-arrow-left,
+button.w-slider-arrow-right {
+  border: 0;
+}
+button.w-tab-link {
+  text-align: inherit;
+}
+button.w-nav-button {
+  color: inherit;
+  background: transparent;
+}
+button.w-slider-arrow-left,
+button.w-slider-arrow-right {
+  background-color: transparent;
+  padding: 0;
+}
+button.cart-button {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  padding: 0;
+}
+[hidden] {
+  display: none !important;
+}
+:focus-visible {
+  outline: 3px solid #eab308;
+  outline-offset: 4px;
+}
+.skip-link {
+  position: fixed;
+  top: -80px;
+  left: 12px;
+  z-index: 30000;
+  padding: 12px 20px;
+  background: #ffc400;
+  color: #102c30;
+}
+.skip-link:focus {
+  top: 12px;
+}
+.w-nav.is-scrolled {
+  background-color: #102c30;
+  box-shadow: 0 1px 10px #0002;
+}
+.w-nav .w-dropdown-list {
+  z-index: 1001;
+}
+.w-dropdown.is-open > .w-dropdown-toggle .plus-two {
+  transform: rotate(0) !important;
+}
+.w-dropdown.is-open > .w-dropdown-list {
+  height: auto !important;
+  opacity: 1 !important;
+}
+.w-dropdown-toggle {
+  cursor: pointer;
+}
+.w-tab-link {
+  border: 0;
+}
+.w-slider {
+  touch-action: pan-y;
+}
+.w-slider-mask {
+  height: 100%;
+  display: grid;
+  align-items: start;
+}
+.w-slider-arrow-left,
+.w-slider-arrow-right {
+  cursor: pointer;
+}
+.w-slider-dot {
+  border: 0;
+  padding: 0;
+}
+.w-checkbox-input--inputType-custom {
+  display: none;
+}
+input.native-checkbox {
+  position: static !important;
+  opacity: 1 !important;
+  z-index: auto !important;
+  width: 17px;
+  height: 17px;
+  min-width: 17px;
+  accent-color: #ffc400;
+  margin: 4px 8px 0 0;
+  float: left;
+}
+form[aria-busy="true"] input[type="submit"] {
+  pointer-events: none;
+  opacity: 0.6;
+}
+.counter-train-wrapper {
+  display: block;
+}
+.course-cards-two .course-card-bottom {
+  transition:
+    opacity 0.2s,
+    transform 0.2s;
+}
+.course-cards-two:hover .course-overlay {
+  opacity: 0.75 !important;
+}
+.course-cards-two:hover .course-card-bottom {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
+.clients-marquee,
+.clients-logos-wrapper {
+  will-change: transform;
+}
+@media (min-width: 992px) {
+  .w-nav .w-nav-menu {
+    display: flex !important;
+    align-items: center;
+  }
+  .w-nav .w-nav-button {
+    display: none !important;
+  }
+}
+@media (max-width: 991px) {
+  .w-nav .w-nav-menu {
+    display: none !important;
+  }
+  .w-nav .w-nav-menu.mobile-open {
+    display: block !important;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    max-height: 80vh;
+    overflow-y: auto;
+    background: #102c30;
+    padding: 16px 20px 24px;
+  }
+  .w-nav-menu.mobile-open .w-dropdown {
+    display: block;
+    margin: 0;
+  }
+  .w-nav-menu.mobile-open .w-dropdown-toggle {
+    width: 100%;
+    padding: 14px 12px;
+  }
+  .w-nav-menu.mobile-open .w-dropdown-list {
+    position: static;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+  }
+  .w-nav-menu.mobile-open .w-dropdown-list .w-dropdown-toggle {
+    color: #102c30;
+  }
+  .w-nav-menu.mobile-open .menu-sublist {
+    position: static;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.desktop-menu {
+  background: #102c30;
+}
+.courser-card-one .course-cards-button {
+  pointer-events: none;
+  transition: opacity 0.2s;
+  position: absolute;
+  inset: 0;
+  background: white;
+}
+.courser-card-one:hover .course-cards-button,
+.courser-card-one:focus-within .course-cards-button {
+  opacity: 1;
+  pointer-events: auto;
+}
+.courser-card-one:hover .course-cards-information,
+.courser-card-one:focus-within .course-cards-information {
+  opacity: 0;
+}
+.courser-card-one .course-cards-information {
+  transition: opacity 0.2s;
+}
+@media (hover: none) {
+  .courser-card-one .course-cards-button {
+    position: static;
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+@media (max-width: 991px) {
+  .w-nav .w-nav-menu.mobile-open {
+    height: auto !important;
+  }
+  .w-nav-menu.mobile-open > .w-dropdown > .w-dropdown-toggle {
+    color: #fff;
+  }
+  .w-nav-menu.mobile-open
+    > .w-dropdown
+    > .w-dropdown-toggle
+    .w-icon-dropdown-toggle {
+    color: #fff;
+  }
+}

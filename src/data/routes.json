@@ -1,0 +1,597 @@
+[
+  {
+    "path": "/home-one",
+    "file": "home-one.jsx",
+    "title": "Elearna - Home One",
+    "bodyClass": "",
+    "wfPage": "66c6f61531d009cfb7c11e9c"
+  },
+  {
+    "path": "/crisis-management-and-problem-solving-strategies/course-details",
+    "file": "crisis-management-and-problem-solving-strategies--course-details.jsx",
+    "title": "Elearna - Webflow Ecommerce website template",
+    "bodyClass": "",
+    "wfPage": "6710cae259434f3eefc1ad29"
+  },
+  {
+    "path": "/understanding-corporate-finance-and-investments/course-details",
+    "file": "understanding-corporate-finance-and-investments--course-details.jsx",
+    "title": "Elearna - Webflow Ecommerce website template",
+    "bodyClass": "",
+    "wfPage": "6710c9e9d5798ce156d5581d"
+  },
+  {
+    "path": "/building-single-page-applications-with-angular/course-details",
+    "file": "building-single-page-applications-with-angular--course-details.jsx",
+    "title": "Elearna - Building single page applications with angular",
+    "bodyClass": "",
+    "wfPage": "66cc131e06b265da57979d56"
+  },
+  {
+    "path": "/home-two",
+    "file": "home-two.jsx",
+    "title": "Elearna - Home Two",
+    "bodyClass": "",
+    "wfPage": "66cdc8c736d7a05c2a867190"
+  },
+  {
+    "path": "/home-three",
+    "file": "home-three.jsx",
+    "title": "Elearna - Home Three",
+    "bodyClass": "",
+    "wfPage": "66d6b59ba8f100f2e9336f8a"
+  },
+  {
+    "path": "/template-overview",
+    "file": "template-overview.jsx",
+    "title": "Elearna - Webflow Ecommerce website template",
+    "bodyClass": "",
+    "wfPage": "668cb7adec02e140422345e4"
+  },
+  {
+    "path": "/advanced-photoshop-techniques-for-designers/course-details",
+    "file": "advanced-photoshop-techniques-for-designers--course-details.jsx",
+    "title": "Elearna - Webflow Ecommerce website template",
+    "bodyClass": "",
+    "wfPage": "6710ca78dd608fb4d5a3c6d1"
+  },
+  {
+    "path": "/the-complete-guide-to-personal-and-business-finance/course-details",
+    "file": "the-complete-guide-to-personal-and-business-finance--course-details.jsx",
+    "title": "Elearna - Access Denied",
+    "bodyClass": "",
+    "wfPage": "66cd6b9015067c3c94600bb2"
+  },
+  {
+    "path": "/about-two",
+    "file": "about-two.jsx",
+    "title": "Elearna - About Two",
+    "bodyClass": "",
+    "wfPage": "66d991fcbd98dcd260f7e801"
+  },
+  {
+    "path": "/full-stack-development-with-the-mern-stack/course-details",
+    "file": "full-stack-development-with-the-mern-stack--course-details.jsx",
+    "title": "Elearna - Access Denied",
+    "bodyClass": "",
+    "wfPage": "66cd6b9015067c3c94600bb2"
+  },
+  {
+    "path": "/design-systems-and-pattern-libraries/course-details",
+    "file": "design-systems-and-pattern-libraries--course-details.jsx",
+    "title": "Elearna - Access Denied",
+    "bodyClass": "",
+    "wfPage": "66cd6b9015067c3c94600bb2"
+  },
+  {
+    "path": "/grow-your-brand-and-reach-your-audience/course-details",
+    "file": "grow-your-brand-and-reach-your-audience--course-details.jsx",
+    "title": "Elearna - Access Denied",
+    "bodyClass": "",
+    "wfPage": "66cd6b9015067c3c94600bb2"
+  },
+  {
+    "path": "/database-integration-with-mongodb/course-details",
+    "file": "database-integration-with-mongodb--course-details.jsx",
+    "title": "Elearna - Access Denied",
+    "bodyClass": "",
+    "wfPage": "66cd6b9015067c3c94600bb2"
+  },
+  {
+    "path": "/risk-management-and-business-continuity/course-details",
+    "file": "risk-management-and-business-continuity--course-details.jsx",
+    "title": "Elearna - Access Denied",
+    "bodyClass": "",
+    "wfPage": "66cd6b9015067c3c94600bb2"
+  },
+  {
+    "path": "/operations-management-and-process-improvement/course-details",
+    "file": "operations-management-and-process-improvement--course-details.jsx",
+    "title": "Elearna - Operations management and process improvement",
+    "bodyClass": "",
+    "wfPage": "66cc0ff05d071b857e95ec06"
+  },
+  {
+    "path": "/about-one",
+    "file": "about-one.jsx",
+    "title": "Elearna - About One",
+    "bodyClass": "",
+    "wfPage": "66d95c8100d6e3c06857e006"
+  },
+  {
+    "path": "/course-one",
+    "file": "course-one.jsx",
+    "title": "Elearna - Course One",
+    "bodyClass": "body-background-light-blue",
+    "wfPage": "66eab6e919d059fd760b5d6b"
+  },
+  {
+    "path": "/pricing-one",
+    "file": "pricing-one.jsx",
+    "title": "Elearna - Pricing One",
+    "bodyClass": "",
+    "wfPage": "66fa48a1333a19c6518d1f23"
+  },
+  {
+    "path": "/course-two",
+    "file": "course-two.jsx",
+    "title": "Elearna - Course Two",
+    "bodyClass": "",
+    "wfPage": "66eab715493b715090658ccd"
+  },
+  {
+    "path": "/pricing-three",
+    "file": "pricing-three.jsx",
+    "title": "Elearna - Pricing Three",
+    "bodyClass": "",
+    "wfPage": "66fbccba470da173c030b9a8"
+  },
+  {
+    "path": "/career",
+    "file": "career.jsx",
+    "title": "Elearna - Career",
+    "bodyClass": "",
+    "wfPage": "66e18fac2af40a26af1e0672"
+  },
+  {
+    "path": "/course-three",
+    "file": "course-three.jsx",
+    "title": "Elearna - Course Three",
+    "bodyClass": "body-background-light-blue",
+    "wfPage": "66eabded6d867a936d66198c"
+  },
+  {
+    "path": "/pricing-two",
+    "file": "pricing-two.jsx",
+    "title": "Pricing Two",
+    "bodyClass": "",
+    "wfPage": "66e139b195acb9f1c9e1b575"
+  },
+  {
+    "path": "/faq",
+    "file": "faq.jsx",
+    "title": "Elearna - FAQ",
+    "bodyClass": "",
+    "wfPage": "66e0348fb73f04caeccc3bf8"
+  },
+  {
+    "path": "/events",
+    "file": "events.jsx",
+    "title": "Elearna - Events",
+    "bodyClass": "",
+    "wfPage": "66e3be3b6b48178915eedce6"
+  },
+  {
+    "path": "/blog-one",
+    "file": "blog-one.jsx",
+    "title": "Elearna - Blog One",
+    "bodyClass": "",
+    "wfPage": "66e7f37b6a0855cf2b949420"
+  },
+  {
+    "path": "/blog-two",
+    "file": "blog-two.jsx",
+    "title": "Elearna - Blog Two",
+    "bodyClass": "",
+    "wfPage": "66e8003a630b571bc419bfa3"
+  },
+  {
+    "path": "/contact-one",
+    "file": "contact-one.jsx",
+    "title": "Elearna - Contact One",
+    "bodyClass": "",
+    "wfPage": "66de98f0146fe79f01e76a51"
+  },
+  {
+    "path": "/team",
+    "file": "team.jsx",
+    "title": "Elearna - Team",
+    "bodyClass": "",
+    "wfPage": "66e526218a1df228f4787c14"
+  },
+  {
+    "path": "/blog-three",
+    "file": "blog-three.jsx",
+    "title": "Elearna - Blog Three",
+    "bodyClass": "",
+    "wfPage": "66e82301110a0e86305107e3"
+  },
+  {
+    "path": "/contact-three",
+    "file": "contact-three.jsx",
+    "title": "Elearna - Contact Three",
+    "bodyClass": "",
+    "wfPage": "66e006415a257dd31a9702e7"
+  },
+  {
+    "path": "/contact-two",
+    "file": "contact-two.jsx",
+    "title": "Elearna - Contact Two",
+    "bodyClass": "",
+    "wfPage": "66dfbf14f27ea9802cef0d7b"
+  },
+  {
+    "path": "/category/development",
+    "file": "category--development.jsx",
+    "title": "Elearna - Development",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18d7"
+  },
+  {
+    "path": "/sign-up",
+    "file": "sign-up.jsx",
+    "title": "Elearna - Sign Up",
+    "bodyClass": "",
+    "wfPage": "66cd6b8f15067c3c94600b54"
+  },
+  {
+    "path": "/category/design",
+    "file": "category--design.jsx",
+    "title": "Elearna - Design",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18d7"
+  },
+  {
+    "path": "/category/finance",
+    "file": "category--finance.jsx",
+    "title": "Elearna - Finance",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18d7"
+  },
+  {
+    "path": "/product/risk-management-and-business-continuity",
+    "file": "product--risk-management-and-business-continuity.jsx",
+    "title": "Elearna - Risk management and business continuity",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/learn-interactive-web-design-by-building-real-projects/course-details",
+    "file": "learn-interactive-web-design-by-building-real-projects--course-details.jsx",
+    "title": "Elearna - Access Denied",
+    "bodyClass": "",
+    "wfPage": "66cd6b9015067c3c94600bb2"
+  },
+  {
+    "path": "/product/database-integration-with-mongodb",
+    "file": "product--database-integration-with-mongodb.jsx",
+    "title": "Elearna - Database integration with MongoDB",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/checkout",
+    "file": "checkout.jsx",
+    "title": "Elearna - Checkout",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18fd"
+  },
+  {
+    "path": "/product/grow-your-brand-and-reach-your-audience",
+    "file": "product--grow-your-brand-and-reach-your-audience.jsx",
+    "title": "Elearna - Grow your brand and reach your audience",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/product/operations-management-and-process-improvement",
+    "file": "product--operations-management-and-process-improvement.jsx",
+    "title": "Elearna - Operations management and process improvement",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/product/the-complete-guide-to-personal-and-business-finance",
+    "file": "product--the-complete-guide-to-personal-and-business-finance.jsx",
+    "title": "Elearna - The complete guide to personal and business finance",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/product/full-stack-development-with-the-mern-stack",
+    "file": "product--full-stack-development-with-the-mern-stack.jsx",
+    "title": "Elearna - Full-stack development with the MERN stack",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/product/learn-interactive-web-design-by-building-real-projects",
+    "file": "product--learn-interactive-web-design-by-building-real-projects.jsx",
+    "title": "Elearna - Learn interactive Web Design by building real projects",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/category/management",
+    "file": "category--management.jsx",
+    "title": "Elearna - Management",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18d7"
+  },
+  {
+    "path": "/information/license",
+    "file": "information--license.jsx",
+    "title": "Elearna - License",
+    "bodyClass": "",
+    "wfPage": "66f2a8d6d6f4de5943385730"
+  },
+  {
+    "path": "/product/design-systems-and-pattern-libraries",
+    "file": "product--design-systems-and-pattern-libraries.jsx",
+    "title": "Elearna - Design systems and pattern libraries",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/team-members/lee-schmitt",
+    "file": "team-members--lee-schmitt.jsx",
+    "title": "Elearna - Lee Schmitt",
+    "bodyClass": "",
+    "wfPage": "66e53b6c9b48938aa3c55518"
+  },
+  {
+    "path": "/404",
+    "file": "404.jsx",
+    "title": "Elearna - Not Found",
+    "bodyClass": "",
+    "wfPage": "66e170e31b59f04dc400a5ac"
+  },
+  {
+    "path": "/blog-posts/the-evolution-of-teaching-tools-in-the-21st-century",
+    "file": "blog-posts--the-evolution-of-teaching-tools-in-the-21st-century.jsx",
+    "title": "Elearna - The evolution of teaching tools in the 21st century",
+    "bodyClass": "",
+    "wfPage": "66d06e0a79829a23aaa3cab9"
+  },
+  {
+    "path": "/team-members/darnell-kuphal",
+    "file": "team-members--darnell-kuphal.jsx",
+    "title": "Elearna - Darnell Kuphal",
+    "bodyClass": "",
+    "wfPage": "66e53b6c9b48938aa3c55518"
+  },
+  {
+    "path": "/team-members/jasmine-konopelski",
+    "file": "team-members--jasmine-konopelski.jsx",
+    "title": "Elearna - Jasmine Konopelski",
+    "bodyClass": "",
+    "wfPage": "66e53b6c9b48938aa3c55518"
+  },
+  {
+    "path": "/team-members/wanda-abshire",
+    "file": "team-members--wanda-abshire.jsx",
+    "title": "Elearna - Wanda Abshire",
+    "bodyClass": "",
+    "wfPage": "66e53b6c9b48938aa3c55518"
+  },
+  {
+    "path": "/team-members/tonya-flatley",
+    "file": "team-members--tonya-flatley.jsx",
+    "title": "Elearna - Tonya Flatley",
+    "bodyClass": "",
+    "wfPage": "66e53b6c9b48938aa3c55518"
+  },
+  {
+    "path": "/team-members/leslie-upton",
+    "file": "team-members--leslie-upton.jsx",
+    "title": "Elearna - Leslie Upton",
+    "bodyClass": "",
+    "wfPage": "66e53b6c9b48938aa3c55518"
+  },
+  {
+    "path": "/product/building-single-page-applications-with-angular",
+    "file": "product--building-single-page-applications-with-angular.jsx",
+    "title": "Elearna - Building single page applications with angular",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/reset-password",
+    "file": "reset-password.jsx",
+    "title": "Elearna - Reset Password",
+    "bodyClass": "",
+    "wfPage": "66cd6b9015067c3c94600b87"
+  },
+  {
+    "path": "/blog-posts/master-online-learning-with-proven-strategies",
+    "file": "blog-posts--master-online-learning-with-proven-strategies.jsx",
+    "title": "Elearna - Master online learning with proven strategies",
+    "bodyClass": "",
+    "wfPage": "66d06e0a79829a23aaa3cab9"
+  },
+  {
+    "path": "/log-in",
+    "file": "log-in.jsx",
+    "title": "Elearna - Log In",
+    "bodyClass": "",
+    "wfPage": "66cd6b8f15067c3c94600b45"
+  },
+  {
+    "path": "/blog-posts/how-to-enhance-your-learning-experience-today",
+    "file": "blog-posts--how-to-enhance-your-learning-experience-today.jsx",
+    "title": "Elearna - How to enhance your learning experience today",
+    "bodyClass": "",
+    "wfPage": "66d06e0a79829a23aaa3cab9"
+  },
+  {
+    "path": "/events/navigating-the-future-of-online-education-platforms",
+    "file": "events--navigating-the-future-of-online-education-platforms.jsx",
+    "title": "Elerna - Navigating the future of online education platforms",
+    "bodyClass": "",
+    "wfPage": "66e3f46dd008bd9f9396fec3"
+  },
+  {
+    "path": "/blog-posts/improve-knowledge-retention-with-visual-learning",
+    "file": "blog-posts--improve-knowledge-retention-with-visual-learning.jsx",
+    "title": "Elearna - Improve knowledge retention with visual learning",
+    "bodyClass": "",
+    "wfPage": "66d06e0a79829a23aaa3cab9"
+  },
+  {
+    "path": "/career/software-development-instructor",
+    "file": "career--software-development-instructor.jsx",
+    "title": "Elearna - Software development instructor",
+    "bodyClass": "",
+    "wfPage": "66e2a85b9cd9c144f2622355"
+  },
+  {
+    "path": "/401",
+    "file": "401.jsx",
+    "title": "Elearna - Protected page",
+    "bodyClass": "",
+    "wfPage": "66e1733e623c7971b96441ac"
+  },
+  {
+    "path": "/career/blockchain-technology-instructor",
+    "file": "career--blockchain-technology-instructor.jsx",
+    "title": "Elearna - Blockchain Technology Instructor",
+    "bodyClass": "",
+    "wfPage": "66e2a85b9cd9c144f2622355"
+  },
+  {
+    "path": "/information/style-guide",
+    "file": "information--style-guide.jsx",
+    "title": "Elearna - Style Guide",
+    "bodyClass": "",
+    "wfPage": "66f29e8464cb5789264464c7"
+  },
+  {
+    "path": "/events/leadership-strategies-for-higher-education-institutions",
+    "file": "events--leadership-strategies-for-higher-education-institutions.jsx",
+    "title": "Elerna - Leadership strategies for higher education institutions",
+    "bodyClass": "",
+    "wfPage": "66e3f46dd008bd9f9396fec3"
+  },
+  {
+    "path": "/career/digital-design-and-ux-instructor",
+    "file": "career--digital-design-and-ux-instructor.jsx",
+    "title": "Elearna - Digital Design and UX Instructor",
+    "bodyClass": "",
+    "wfPage": "66e2a85b9cd9c144f2622355"
+  },
+  {
+    "path": "/career/machine-learning-educator",
+    "file": "career--machine-learning-educator.jsx",
+    "title": "Elearna - Machine learning educator",
+    "bodyClass": "",
+    "wfPage": "66e2a85b9cd9c144f2622355"
+  },
+  {
+    "path": "/team-members/steven-roob",
+    "file": "team-members--steven-roob.jsx",
+    "title": "Elearna - Steven Roob",
+    "bodyClass": "",
+    "wfPage": "66e53b6c9b48938aa3c55518"
+  },
+  {
+    "path": "/blog-posts/the-role-of-technology-in-modern-classrooms",
+    "file": "blog-posts--the-role-of-technology-in-modern-classrooms.jsx",
+    "title": "Elearna - The role of technology in modern classrooms",
+    "bodyClass": "",
+    "wfPage": "66d06e0a79829a23aaa3cab9"
+  },
+  {
+    "path": "/events/best-practices-for-virtual-classroom-management",
+    "file": "events--best-practices-for-virtual-classroom-management.jsx",
+    "title": "Elerna - Best practices for virtual classroom management",
+    "bodyClass": "",
+    "wfPage": "66e3f46dd008bd9f9396fec3"
+  },
+  {
+    "path": "/events/professional-development-for-online-educators-and-trainers",
+    "file": "events--professional-development-for-online-educators-and-trainers.jsx",
+    "title": "Elerna - Professional development for online educators and trainers",
+    "bodyClass": "",
+    "wfPage": "66e3f46dd008bd9f9396fec3"
+  },
+  {
+    "path": "/blog-posts/how-personalized-learning-is-changing-education",
+    "file": "blog-posts--how-personalized-learning-is-changing-education.jsx",
+    "title": "Elearna - How personalized learning is changing education",
+    "bodyClass": "",
+    "wfPage": "66d06e0a79829a23aaa3cab9"
+  },
+  {
+    "path": "/blog-posts/how-globalization-is-shaping-curriculum-development",
+    "file": "blog-posts--how-globalization-is-shaping-curriculum-development.jsx",
+    "title": "Elearna - How globalization is shaping curriculum development",
+    "bodyClass": "",
+    "wfPage": "66d06e0a79829a23aaa3cab9"
+  },
+  {
+    "path": "/events/the-impact-of-emotional-intelligence-on-student-success",
+    "file": "events--the-impact-of-emotional-intelligence-on-student-success.jsx",
+    "title": "Elerna - The impact of emotional intelligence on student success",
+    "bodyClass": "",
+    "wfPage": "66e3f46dd008bd9f9396fec3"
+  },
+  {
+    "path": "/events/innovative-teaching-strategies-for-modern-classrooms",
+    "file": "events--innovative-teaching-strategies-for-modern-classrooms.jsx",
+    "title": "Elerna - Innovative teaching strategies for modern classrooms",
+    "bodyClass": "",
+    "wfPage": "66e3f46dd008bd9f9396fec3"
+  },
+  {
+    "path": "/blog-posts/the-role-of-parental-involvement-in-academic-achievement",
+    "file": "blog-posts--the-role-of-parental-involvement-in-academic-achievement.jsx",
+    "title": "Elearna - The role of parental involvement in academic achievement",
+    "bodyClass": "",
+    "wfPage": "66d06e0a79829a23aaa3cab9"
+  },
+  {
+    "path": "/blog-posts/empowering-teachers-with-continuous-professional-development",
+    "file": "blog-posts--empowering-teachers-with-continuous-professional-development.jsx",
+    "title": "Elearna - Empowering teachers with continuous professional development",
+    "bodyClass": "",
+    "wfPage": "66d06e0a79829a23aaa3cab9"
+  },
+  {
+    "path": "/product/understanding-corporate-finance-and-investments",
+    "file": "product--understanding-corporate-finance-and-investments.jsx",
+    "title": "Elearna - Understanding corporate finance and investments",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/product/crisis-management-and-problem-solving-strategies",
+    "file": "product--crisis-management-and-problem-solving-strategies.jsx",
+    "title": "Elearna - Crisis management and problem-solving strategies",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  },
+  {
+    "path": "/team-members/colin-fay",
+    "file": "team-members--colin-fay.jsx",
+    "title": "Elearna - Colin Fay",
+    "bodyClass": "",
+    "wfPage": "66e53b6c9b48938aa3c55518"
+  },
+  {
+    "path": "/product/advanced-photoshop-techniques-for-designers",
+    "file": "product--advanced-photoshop-techniques-for-designers.jsx",
+    "title": "Elearna - Advanced photoshop techniques for designers",
+    "bodyClass": "",
+    "wfPage": "66cbf9efcd2d43a6644e18b7"
+  }
+]

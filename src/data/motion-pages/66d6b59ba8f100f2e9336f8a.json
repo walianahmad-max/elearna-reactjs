@@ -1,0 +1,6631 @@
+{
+  "events": {
+    "e-110": {
+      "id": "e-110",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "d2419891-9f36-e25c-7c72-b1716c5d291d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-111"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-111": {
+      "id": "e-111",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "d2419891-9f36-e25c-7c72-b1716c5d291d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-110"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-220": {
+      "id": "e-220",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "96645ce7-a58f-669a-a10d-291fbaae30d0",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-221"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-226": {
+      "id": "e-226",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "63b4d4e7-94c2-9465-89d9-58c4a20f71fa",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-227"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-242": {
+      "id": "e-242",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "1e12d122-f38e-07ce-3128-25aed7067c88",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-243"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-244": {
+      "id": "e-244",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "1e12d122-f38e-07ce-3128-25aed7067c8a",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-245"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-246": {
+      "id": "e-246",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "a5ff96f1-0b24-9a8e-5c74-a45508423d0b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-247"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-250": {
+      "id": "e-250",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "fd52dbab-5378-f8e3-f998-c3abe4ff5476",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-251"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-304": {
+      "id": "e-304",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "3654ddcd-1d4a-6018-e801-dec7585a521a",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-305"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-306": {
+      "id": "e-306",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "3654ddcd-1d4a-6018-e801-dec7585a521c",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-307"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-308": {
+      "id": "e-308",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "3654ddcd-1d4a-6018-e801-dec7585a521f",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-309"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-310": {
+      "id": "e-310",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "3654ddcd-1d4a-6018-e801-dec7585a5225",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-311"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-312": {
+      "id": "e-312",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "3654ddcd-1d4a-6018-e801-dec7585a522b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-313"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-314": {
+      "id": "e-314",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "3654ddcd-1d4a-6018-e801-dec7585a5231",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-315"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-320": {
+      "id": "e-320",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "ecc05ebb-d048-2496-f7e4-abeb03dcdcf9",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-321"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-324": {
+      "id": "e-324",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "fb4ef407-053b-0874-9f5b-4f7137e3f433",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "slideInTop", "autoStopEventId": "e-325" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "TOP",
+        "effectIn": true
+      }
+    },
+    "e-334": {
+      "id": "e-334",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "63b4d4e7-94c2-9465-89d9-58c4a20f71fa",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-335"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-335": {
+      "id": "e-335",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "63b4d4e7-94c2-9465-89d9-58c4a20f71fa",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-334"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-336": {
+      "id": "e-336",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "554bdb09-166f-7496-ccbc-6402fc45feda",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-337"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-337": {
+      "id": "e-337",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "554bdb09-166f-7496-ccbc-6402fc45feda",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-336"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-392": {
+      "id": "e-392",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "39baf460-15b3-a13b-7a0d-2a8c4923e136",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-393"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-393": {
+      "id": "e-393",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "39baf460-15b3-a13b-7a0d-2a8c4923e136",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-392"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-400": {
+      "id": "e-400",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "81a5b998-ae84-46ef-f7bf-03f332838459",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-401"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-402": {
+      "id": "e-402",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "ecc05ebb-d048-2496-f7e4-abeb03dcdd3c",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "FADE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "fadeIn", "autoStopEventId": "e-403" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": null,
+        "effectIn": true
+      }
+    },
+    "e-409": {
+      "id": "e-409",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "e1c36f32-de27-e1d0-913a-a0776cbd6efb",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "FADE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "fadeIn", "autoStopEventId": "e-410" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": null,
+        "effectIn": true
+      }
+    },
+    "e-473": {
+      "id": "e-473",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "7611239c-7dca-09ac-ef7d-4a7b5d653aa0",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-22",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-474"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-475": {
+      "id": "e-475",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "7611239c-7dca-09ac-ef7d-4a7b5d653aa9",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-23",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-476"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-477": {
+      "id": "e-477",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "7611239c-7dca-09ac-ef7d-4a7b5d653ab2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-24",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-478"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-479": {
+      "id": "e-479",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "7611239c-7dca-09ac-ef7d-4a7b5d653abb",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-25",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-480"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-495": {
+      "id": "e-495",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "6d1fa230-2b2f-0e74-d842-07f71c571399",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "FADE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "fadeIn", "autoStopEventId": "e-496" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 200,
+        "direction": null,
+        "effectIn": true
+      }
+    },
+    "e-529": {
+      "id": "e-529",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "94133b6d-1f40-cb6b-ab13-10b498f20ec3",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GROW_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "growIn", "autoStopEventId": "e-530" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": null,
+        "effectIn": true
+      }
+    },
+    "e-531": {
+      "id": "e-531",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "94133b6d-1f40-cb6b-ab13-10b498f20ec4",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-532"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-533": {
+      "id": "e-533",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "67d6b3be-da40-f14d-5dfc-8bd8295230ed",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-534"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-535": {
+      "id": "e-535",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "67d6b3be-da40-f14d-5dfc-8bd8295230ef",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-536"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-537": {
+      "id": "e-537",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "67d6b3be-da40-f14d-5dfc-8bd8295230f4",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-538"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-539": {
+      "id": "e-539",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "e1c36f32-de27-e1d0-913a-a0776cbd6ec0",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-540"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 0,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-541": {
+      "id": "e-541",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "005386ac-8f56-69ff-a08d-d6f59bbd8d79",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "slideInTop", "autoStopEventId": "e-542" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 0,
+        "direction": "TOP",
+        "effectIn": true
+      }
+    },
+    "e-543": {
+      "id": "e-543",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "90e82947-de64-495b-8669-2144522f35d4",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-544"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-624": {
+      "id": "e-624",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "749170a9-5dab-3b9e-8196-6f9b8c3dcff8",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-625"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-626": {
+      "id": "e-626",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "749170a9-5dab-3b9e-8196-6f9b8c3dcffa",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-627"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-630": {
+      "id": "e-630",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "1f1740e9-17b8-d475-7d9c-ce8d11687932",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-631"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-632": {
+      "id": "e-632",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "890a1aa9-6573-2ea8-6a51-6c8deb450bab",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-633"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-633": {
+      "id": "e-633",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "890a1aa9-6573-2ea8-6a51-6c8deb450bab",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-632"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-681": {
+      "id": "e-681",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "e1f1c24b-cf4f-d78f-d8bd-6d9480d4e887",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-40",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-682"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-682": {
+      "id": "e-682",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "e1f1c24b-cf4f-d78f-d8bd-6d9480d4e887",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-41",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-681"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-683": {
+      "id": "e-683",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "e1f1c24b-cf4f-d78f-d8bd-6d9480d4e887",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-684"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-766": {
+      "id": "e-766",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "88293f59-0187-6056-3a72-86586e29ff70",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-767"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-768": {
+      "id": "e-768",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "88293f59-0187-6056-3a72-86586e29ff72",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-769"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-775": {
+      "id": "e-775",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "25689f50-4168-b928-ea00-abc6b6e17c42",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-42",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-776"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-776": {
+      "id": "e-776",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "25689f50-4168-b928-ea00-abc6b6e17c42",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-43",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-775"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-824": {
+      "id": "e-824",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df69",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-46",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-825"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-825": {
+      "id": "e-825",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df69",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-47",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-824"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-826": {
+      "id": "e-826",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df89",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-46",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-827"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-827": {
+      "id": "e-827",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df89",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-47",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-826"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-828": {
+      "id": "e-828",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df81",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-46",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-829"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-829": {
+      "id": "e-829",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df81",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-47",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-828"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-830": {
+      "id": "e-830",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df79",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-46",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-831"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-831": {
+      "id": "e-831",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df79",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-47",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-830"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-832": {
+      "id": "e-832",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df71",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-46",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-833"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-833": {
+      "id": "e-833",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df71",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-47",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-832"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-846": {
+      "id": "e-846",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "4d0f483b-c05d-8743-c41e-e856ff1dffd1",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-847"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-848": {
+      "id": "e-848",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "4d0f483b-c05d-8743-c41e-e856ff1dffd8",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-849"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 120,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-850": {
+      "id": "e-850",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "4d0f483b-c05d-8743-c41e-e856ff1dffd9",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-851"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 150,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-852": {
+      "id": "e-852",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "4d0f483b-c05d-8743-c41e-e856ff1dffe2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-853"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 170,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-854": {
+      "id": "e-854",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "4d0f483b-c05d-8743-c41e-e856ff1dffe3",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-855"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 200,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-856": {
+      "id": "e-856",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df62",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-857"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-858": {
+      "id": "e-858",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df66",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-859"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-860": {
+      "id": "e-860",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "4d5e66a2-6b2d-ddc8-d0ad-ca52bfa0df68",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-861"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-888": {
+      "id": "e-888",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "1a9d11b7-7483-9920-b2a5-863bb6991ec8",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-982"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 700,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-979": {
+      "id": "e-979",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "93edf241-64f2-4a08-b321-5c55c6382ca0",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "slideInTop", "autoStopEventId": "e-980" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 0,
+        "direction": "TOP",
+        "effectIn": true
+      }
+    },
+    "e-981": {
+      "id": "e-981",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "cdf9934f-303c-92f5-e877-96ec5be2253b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-982"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 700,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-2231": {
+      "id": "e-2231",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed568069d1",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "slideInTop", "autoStopEventId": "e-2232" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 0,
+        "direction": "TOP",
+        "effectIn": true
+      }
+    },
+    "e-2239": {
+      "id": "e-2239",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "f1a61ed6-5437-6b3f-59ff-ff466b545b0a",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-63",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2240"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2240": {
+      "id": "e-2240",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "f1a61ed6-5437-6b3f-59ff-ff466b545b0a",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-64",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2239"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2380": {
+      "id": "e-2380",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "f1a61ed6-5437-6b3f-59ff-ff466b545b0a",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-2381"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-2485": {
+      "id": "e-2485",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed568069d7",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-76",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2486"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2486": {
+      "id": "e-2486",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed568069d7",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-77",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2485"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2487": {
+      "id": "e-2487",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed568069ef",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-76",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2488"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2488": {
+      "id": "e-2488",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed568069ef",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-77",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2487"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2489": {
+      "id": "e-2489",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed56806a0b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-76",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2490"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2490": {
+      "id": "e-2490",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed56806a0b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-77",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2489"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2491": {
+      "id": "e-2491",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "bbdbcd66-b9b1-e68c-f893-d13cf526ab57",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-76",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2492"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2492": {
+      "id": "e-2492",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "bbdbcd66-b9b1-e68c-f893-d13cf526ab57",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-77",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2491"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2493": {
+      "id": "e-2493",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed568069e3",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-76",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2494"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2494": {
+      "id": "e-2494",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed568069e3",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-77",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2493"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2495": {
+      "id": "e-2495",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "b99f7b55-774f-0347-8bae-547a9b0c26c0",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-78",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2496"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2496": {
+      "id": "e-2496",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "b99f7b55-774f-0347-8bae-547a9b0c26c0",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-79",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2495"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2497": {
+      "id": "e-2497",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "94ffb2fb-11ef-be20-ffc0-b98a3a37fd56",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-78",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2498"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2498": {
+      "id": "e-2498",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "94ffb2fb-11ef-be20-ffc0-b98a3a37fd56",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-79",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2497"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2499": {
+      "id": "e-2499",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "9bda1a2a-7b00-c099-d232-0e6a8289e4ad",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-78",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2500"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2500": {
+      "id": "e-2500",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "9bda1a2a-7b00-c099-d232-0e6a8289e4ad",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-79",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2499"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2501": {
+      "id": "e-2501",
+      "eventTypeId": "DROPDOWN_OPEN",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "394fe6be-92a9-255c-4d1f-253eb462a070",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-78",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2502"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2502": {
+      "id": "e-2502",
+      "eventTypeId": "DROPDOWN_CLOSE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "394fe6be-92a9-255c-4d1f-253eb462a070",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-79",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2501"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2539": {
+      "id": "e-2539",
+      "eventTypeId": "NAVBAR_OPEN",
+      "mediaQueries": ["medium", "small", "tiny"],
+      "target": {
+        "id": "005386ac-8f56-69ff-a08d-d6f59bbd8d86",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-80",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2540"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2540": {
+      "id": "e-2540",
+      "eventTypeId": "NAVBAR_CLOSE",
+      "mediaQueries": ["medium", "small", "tiny"],
+      "target": {
+        "id": "005386ac-8f56-69ff-a08d-d6f59bbd8d86",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-81",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2539"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2541": {
+      "id": "e-2541",
+      "eventTypeId": "NAVBAR_OPEN",
+      "mediaQueries": ["medium", "small", "tiny"],
+      "target": {
+        "id": "fb4ef407-053b-0874-9f5b-4f7137e3f433",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-80",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2542"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2542": {
+      "id": "e-2542",
+      "eventTypeId": "NAVBAR_CLOSE",
+      "mediaQueries": ["medium", "small", "tiny"],
+      "target": {
+        "id": "fb4ef407-053b-0874-9f5b-4f7137e3f433",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-81",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2541"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2569": {
+      "id": "e-2569",
+      "eventTypeId": "NAVBAR_OPEN",
+      "mediaQueries": ["medium", "small", "tiny"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed568069d1",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-80",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2570"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2570": {
+      "id": "e-2570",
+      "eventTypeId": "NAVBAR_CLOSE",
+      "mediaQueries": ["medium", "small", "tiny"],
+      "target": {
+        "id": "5bebb723-6864-d16b-b62d-c6ed568069d1",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-81",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2569"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2836": {
+      "id": "e-2836",
+      "eventTypeId": "MOUSE_CLICK",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "c0ed1247-def4-0564-3c81-5cee2fd4254d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-85",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2837"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2837": {
+      "id": "e-2837",
+      "eventTypeId": "MOUSE_SECOND_CLICK",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "c0ed1247-def4-0564-3c81-5cee2fd4254d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-85",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2836"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2838": {
+      "id": "e-2838",
+      "eventTypeId": "MOUSE_CLICK",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "c0ed1247-def4-0564-3c81-5cee2fd42552",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-86",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2839"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-3086": {
+      "id": "e-3086",
+      "eventTypeId": "MOUSE_CLICK",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "7eb3cca6-13cf-7235-9406-8c91967107ce",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-85",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-3087"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-3087": {
+      "id": "e-3087",
+      "eventTypeId": "MOUSE_SECOND_CLICK",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "7eb3cca6-13cf-7235-9406-8c91967107ce",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-85",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-3086"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-3088": {
+      "id": "e-3088",
+      "eventTypeId": "MOUSE_CLICK",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "7eb3cca6-13cf-7235-9406-8c91967107d3",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-86",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-3089"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-3089": {
+      "id": "e-3089",
+      "eventTypeId": "MOUSE_SECOND_CLICK",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "7eb3cca6-13cf-7235-9406-8c91967107d3",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-86",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-3088"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-545": {
+      "id": "e-545",
+      "eventTypeId": "PAGE_SCROLL",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a",
+        "appliesTo": "PAGE",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_CONTINUOUS_ACTION",
+        "config": {
+          "actionListId": "a-13",
+          "affectedElements": {},
+          "duration": 0
+        }
+      },
+      "config": [
+        {
+          "continuousParameterGroupId": "a-13-p",
+          "smoothing": 50,
+          "startsEntering": true,
+          "addStartOffset": false,
+          "addOffsetValue": 50,
+          "startsExiting": false,
+          "addEndOffset": false,
+          "endOffsetValue": 50
+        }
+      ]
+    },
+    "e-546": {
+      "id": "e-546",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|7f3bada0-d0a3-b68d-5afa-041f82aa6ff6",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "FADE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "fadeIn", "autoStopEventId": "e-547" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": null,
+        "effectIn": true
+      }
+    },
+    "e-548": {
+      "id": "e-548",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|7f3bada0-d0a3-b68d-5afa-041f82aa6ffd",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "FADE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "fadeIn", "autoStopEventId": "e-549" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": null,
+        "effectIn": true
+      }
+    },
+    "e-550": {
+      "id": "e-550",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|7f3bada0-d0a3-b68d-5afa-041f82aa7004",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "FADE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "fadeIn", "autoStopEventId": "e-551" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": null,
+        "effectIn": true
+      }
+    },
+    "e-552": {
+      "id": "e-552",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|82dd583d-c0fb-3601-998a-0e4c9ed892b4",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-26",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-553"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-554": {
+      "id": "e-554",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|efedf68c-9362-059a-59d0-f2c2d296b758",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-27",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-555"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-556": {
+      "id": "e-556",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|ee71139a-b7f5-4e0b-229e-55765b43bf5e",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-28",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-557"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-558": {
+      "id": "e-558",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|448b01dc-c9de-b702-5ee9-5a9e21e806e2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-29",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-559"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-629": {
+      "id": "e-629",
+      "eventTypeId": "PAGE_FINISH",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a",
+        "appliesTo": "PAGE",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-628"
+        }
+      },
+      "config": {
+        "loop": true,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-634": {
+      "id": "e-634",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|b84c6794-3e83-7f7c-7e68-bc86d518091b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-635"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-636": {
+      "id": "e-636",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|b84c6794-3e83-7f7c-7e68-bc86d518091d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-7",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-637"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-638": {
+      "id": "e-638",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|b84c6794-3e83-7f7c-7e68-bc86d5180944",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-7",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-639"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-640": {
+      "id": "e-640",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|b84c6794-3e83-7f7c-7e68-bc86d518098f",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-7",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-641"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-642": {
+      "id": "e-642",
+      "eventTypeId": "MOUSE_MOVE",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|d6b8d61d-2b8b-7d4a-21d4-ab0ce1d441a8",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_CONTINUOUS_ACTION",
+        "config": {
+          "actionListId": "a-30",
+          "affectedElements": {},
+          "duration": 0
+        }
+      },
+      "config": [
+        {
+          "continuousParameterGroupId": "a-30-p",
+          "selectedAxis": "X_AXIS",
+          "basedOn": "ELEMENT",
+          "reverse": false,
+          "smoothing": 90,
+          "restingState": 50
+        },
+        {
+          "continuousParameterGroupId": "a-30-p-2",
+          "selectedAxis": "Y_AXIS",
+          "basedOn": "ELEMENT",
+          "reverse": false,
+          "smoothing": 50,
+          "restingState": 50
+        }
+      ]
+    },
+    "e-643": {
+      "id": "e-643",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|80a121dd-7278-1d67-8d31-5b1266e868ef",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-31",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-644"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-644": {
+      "id": "e-644",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|80a121dd-7278-1d67-8d31-5b1266e868ef",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-32",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-643"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-645": {
+      "id": "e-645",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|dd2403df-fa48-5771-1f0e-29504dba719d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-31",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-646"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-646": {
+      "id": "e-646",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|dd2403df-fa48-5771-1f0e-29504dba719d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-32",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-645"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-647": {
+      "id": "e-647",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|1a1a5840-1bbf-9178-d97f-fc933c3f4182",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-31",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-648"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-648": {
+      "id": "e-648",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|1a1a5840-1bbf-9178-d97f-fc933c3f4182",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-32",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-647"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-649": {
+      "id": "e-649",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|6427e33c-b5f4-2164-f3fc-c2364ba457e2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-31",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-650"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-650": {
+      "id": "e-650",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|6427e33c-b5f4-2164-f3fc-c2364ba457e2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-32",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-649"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-651": {
+      "id": "e-651",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|47c29c67-94a3-aa3f-b38b-203b72e0f5e2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-31",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-652"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-652": {
+      "id": "e-652",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|47c29c67-94a3-aa3f-b38b-203b72e0f5e2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-32",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-651"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-653": {
+      "id": "e-653",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|cb415f60-b35b-bf79-d5da-99ac027ba592",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-31",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-654"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-654": {
+      "id": "e-654",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|cb415f60-b35b-bf79-d5da-99ac027ba592",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-32",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-653"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-655": {
+      "id": "e-655",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|80a121dd-7278-1d67-8d31-5b1266e868ef",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-33",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-656"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-656": {
+      "id": "e-656",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|80a121dd-7278-1d67-8d31-5b1266e868ef",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-34",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-655"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-657": {
+      "id": "e-657",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|dd2403df-fa48-5771-1f0e-29504dba719d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-35",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-658"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-658": {
+      "id": "e-658",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|dd2403df-fa48-5771-1f0e-29504dba719d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-34",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-657"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-659": {
+      "id": "e-659",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|1a1a5840-1bbf-9178-d97f-fc933c3f4182",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-36",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-660"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-660": {
+      "id": "e-660",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|1a1a5840-1bbf-9178-d97f-fc933c3f4182",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-34",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-659"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-661": {
+      "id": "e-661",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|6427e33c-b5f4-2164-f3fc-c2364ba457e2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-37",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-662"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-662": {
+      "id": "e-662",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|6427e33c-b5f4-2164-f3fc-c2364ba457e2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-34",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-661"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-663": {
+      "id": "e-663",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|47c29c67-94a3-aa3f-b38b-203b72e0f5e2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-38",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-664"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-664": {
+      "id": "e-664",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|47c29c67-94a3-aa3f-b38b-203b72e0f5e2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-34",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-663"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-665": {
+      "id": "e-665",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|cb415f60-b35b-bf79-d5da-99ac027ba592",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-39",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-666"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-666": {
+      "id": "e-666",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|cb415f60-b35b-bf79-d5da-99ac027ba592",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-34",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-665"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-667": {
+      "id": "e-667",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|70e48e35-218e-891d-570c-54b8a376dee7",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-668"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-669": {
+      "id": "e-669",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|2efa3d0d-0ff1-eb89-5aa2-f11edd8da4ae",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-670"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-671": {
+      "id": "e-671",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|ea890cac-9b87-8491-ec0d-e0c458448e15",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "slideInLeft", "autoStopEventId": "e-672" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "LEFT",
+        "effectIn": true
+      }
+    },
+    "e-673": {
+      "id": "e-673",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|471625bb-cac4-132e-70c9-1b4ec6f66325",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "slideInRight", "autoStopEventId": "e-674" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 300,
+        "direction": "RIGHT",
+        "effectIn": true
+      }
+    },
+    "e-675": {
+      "id": "e-675",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|95c6b4c4-aefd-356b-779e-58a7f6361481",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-676"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 200,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-677": {
+      "id": "e-677",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|18afe6ec-a47e-e7af-38b7-115aa5977895",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-678"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-679": {
+      "id": "e-679",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|e083e11a-2127-7389-de68-2c6d6cc28bc8",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-680"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-685": {
+      "id": "e-685",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|0449e69f-3f26-fe49-ea69-7fe23d311acd",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-686"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-687": {
+      "id": "e-687",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|f7a9fcd0-fc01-4f82-d63c-dd933f06a45f",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-688"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-689": {
+      "id": "e-689",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|453c1bd1-01e5-ee13-72a0-6f79360c575f",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-690"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-691": {
+      "id": "e-691",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|e59f3ae9-b6a7-894d-b654-494caa52a52b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-692"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-693": {
+      "id": "e-693",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|31f2f54f-cb2c-6bfc-c199-638caaa8243e",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-694"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-695": {
+      "id": "e-695",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|72a7a7da-da46-51a9-9484-486c490ea4aa",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-696"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-697": {
+      "id": "e-697",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|04a3de9a-8430-b7ed-a514-b2389695083f",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-698"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-699": {
+      "id": "e-699",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|8fb9711f-21c2-554b-1ccb-c46b59c447b0",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-700"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-701": {
+      "id": "e-701",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|af45527c-70a4-bbd9-c070-478e43498a33",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "slideInLeft", "autoStopEventId": "e-702" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 25,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "LEFT",
+        "effectIn": true
+      }
+    },
+    "e-703": {
+      "id": "e-703",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|63d365c3-1163-826d-1a83-866ac6169169",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": { "actionListId": "slideInRight", "autoStopEventId": "e-704" }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 200,
+        "direction": "RIGHT",
+        "effectIn": true
+      }
+    },
+    "e-705": {
+      "id": "e-705",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|099bd291-e7e9-2e45-895b-93d28f650136",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-706"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-707": {
+      "id": "e-707",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|667d76fe-3008-5d9f-f7fe-9da495135842",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-708"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-709": {
+      "id": "e-709",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|847d89f8-1e26-9f92-5d46-722eb93d7518",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-710"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-710": {
+      "id": "e-710",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|847d89f8-1e26-9f92-5d46-722eb93d7518",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-709"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1813": {
+      "id": "e-1813",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456312",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-4",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1814"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1814": {
+      "id": "e-1814",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456312",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-6",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1813"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1815": {
+      "id": "e-1815",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456313",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-1816"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-1817": {
+      "id": "e-1817",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456332",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1818"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1818": {
+      "id": "e-1818",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456332",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1817"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1821": {
+      "id": "e-1821",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45633e",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-4",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1822"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1822": {
+      "id": "e-1822",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45633e",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-6",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1821"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1823": {
+      "id": "e-1823",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45633f",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-1824"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-1825": {
+      "id": "e-1825",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45635e",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1826"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1826": {
+      "id": "e-1826",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45635e",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1825"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1827": {
+      "id": "e-1827",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456361",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1828"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1828": {
+      "id": "e-1828",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456361",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1827"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1829": {
+      "id": "e-1829",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45636a",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-4",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1830"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1830": {
+      "id": "e-1830",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45636a",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-6",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1829"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1831": {
+      "id": "e-1831",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45636b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-1832"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-1833": {
+      "id": "e-1833",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45638a",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1834"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1834": {
+      "id": "e-1834",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45638a",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1833"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1835": {
+      "id": "e-1835",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45638d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1836"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1836": {
+      "id": "e-1836",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45638d",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1835"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1837": {
+      "id": "e-1837",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456396",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-4",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1838"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1838": {
+      "id": "e-1838",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456396",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-6",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1837"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1839": {
+      "id": "e-1839",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456397",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-1840"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-1841": {
+      "id": "e-1841",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563b6",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1842"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1842": {
+      "id": "e-1842",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563b6",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1841"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1843": {
+      "id": "e-1843",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563b9",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1844"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1844": {
+      "id": "e-1844",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563b9",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1843"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1845": {
+      "id": "e-1845",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563c2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-4",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1846"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1846": {
+      "id": "e-1846",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563c2",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-6",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1845"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1847": {
+      "id": "e-1847",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563c3",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-1848"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-1849": {
+      "id": "e-1849",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563e3",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1850"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1850": {
+      "id": "e-1850",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563e3",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1849"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1851": {
+      "id": "e-1851",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563ec",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-4",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1852"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1852": {
+      "id": "e-1852",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563ec",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-6",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1851"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1853": {
+      "id": "e-1853",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f4563ed",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-1854"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-1855": {
+      "id": "e-1855",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45640c",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1856"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1856": {
+      "id": "e-1856",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45640c",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1855"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1857": {
+      "id": "e-1857",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45640f",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1858"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1858": {
+      "id": "e-1858",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45640f",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1857"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1859": {
+      "id": "e-1859",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456418",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-4",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1860"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1860": {
+      "id": "e-1860",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456418",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-6",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1859"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1861": {
+      "id": "e-1861",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456419",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-1862"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-1863": {
+      "id": "e-1863",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456438",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1864"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1864": {
+      "id": "e-1864",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456438",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1863"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1865": {
+      "id": "e-1865",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45643b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2230"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1866": {
+      "id": "e-1866",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f45643b",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1865"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1867": {
+      "id": "e-1867",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456444",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-4",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1868"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1868": {
+      "id": "e-1868",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main", "medium", "small", "tiny"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456444",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-6",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2231"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1869": {
+      "id": "e-1869",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456445",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-2230"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 10,
+        "scrollOffsetUnit": "%",
+        "delay": 100,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    },
+    "e-1871": {
+      "id": "e-1871",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456464",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1872"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1872": {
+      "id": "e-1872",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456464",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-2231"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1873": {
+      "id": "e-1873",
+      "eventTypeId": "MOUSE_OVER",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456467",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1874"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-1874": {
+      "id": "e-1874",
+      "eventTypeId": "MOUSE_OUT",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|065082bd-2bae-8443-12ff-a8121f456467",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-12",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-1873"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      }
+    },
+    "e-2571": {
+      "id": "e-2571",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "mediaQueries": ["main"],
+      "target": {
+        "id": "66d6b59ba8f100f2e9336f8a|fa338d5f-1f6d-204c-b335-ff45c74c0bab",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "action": {
+        "id": "",
+        "actionTypeId": "SLIDE_EFFECT",
+        "instant": false,
+        "config": {
+          "actionListId": "slideInBottom",
+          "autoStopEventId": "e-2572"
+        }
+      },
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": 300,
+        "direction": "BOTTOM",
+        "effectIn": true
+      }
+    }
+  }
+}
